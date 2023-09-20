@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+📮 Reach me: richardcheng0901@gmail.com
+
+* I'm currently working hard for my first paper.
+* I'm interested in multi-modality.
+* I'm contributing to my favourite project [yival](https://github.com/YiVal/YiVal).
+* I'm not a genius , but I'm an idealis.
+
 <!--
 **crazycth/crazycth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
