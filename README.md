@@ -2,6 +2,8 @@
 
 📮 Reach me: richardcheng0901@gmail.com
 
+Please at least let me know who you are when contact me through email.
+
 * I'm currently working hard for my first paper.
 * I'm interested in multi-modality.
 * I'm contributing to my favourite project [yival](https://github.com/YiVal/YiVal).
