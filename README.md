@@ -6,7 +6,6 @@ Please at least let me know who you are when contact me through email.
 
 * I'm interested in multi-modality & llm
 * Currently work for myself , feels good
-* I'm contributing to open source [yival](https://github.com/YiVal/YiVal).
 * I'm not a genius , but I'm an idealis.
 
 <!--
