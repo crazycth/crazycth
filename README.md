@@ -4,7 +4,8 @@
 
 Please at least let me know who you are when contact me through email.
 
-* I'm interested in NLP(llm), multi-modality(MLLM)
+* Former XCPC Player
+* I'm interested in LLM Pretrain & SFT
 * Currently work for myself , feels good
 * I'm not a genius , but I'm an idealis.
 
