@@ -5,8 +5,7 @@
 Please at least let me know who you are when contact me through email.
 
 * Former XCPC Player
-* I'm interested in LLM Pretrain & SFT
-* Currently work for myself , feels good
+* I'm interested in LLM Pretrain & SFT, currently focus on code-gen
 * I'm not a genius , but I'm an idealis.
 
 <!--
