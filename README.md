@@ -5,8 +5,8 @@
 Please at least let me know who you are when contact me through email.
 
 * Former XCPC Player
-* I'm interested in LLM Pretrain & SFT, currently focus on code-gen
-* I'm not a genius , but I'm an idealis.
+* I'm interested in LLM
+* I'm not a genius , but I'm an ideal
 
 <!--
 **crazycth/crazycth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
