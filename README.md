@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📮 Reach me: thcheng23@m.fudan.edu.cn
+📮 Reach me: thcheng25@m.fudan.edu.cn
 
 Please at least let me know who you are when contact me through email.
 
